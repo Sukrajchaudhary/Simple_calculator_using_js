@@ -1,0 +1,15 @@
+center{
+    padding: 10%;
+}
+button{
+    height: 30px;
+    width: 50px;
+}
+input{
+    color: #171717;
+    width: 208px;
+    background-color: gray;
+    z-index: 1;
+    height: 30px;
+    border-radius: 5px;
+}
